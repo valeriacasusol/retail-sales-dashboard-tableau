@@ -5,7 +5,7 @@
 This project presents an interactive Tableau dashboard that analyzes retail sales performance using a sample retail dataset. The dashboard provides insights into sales by product category, profit by region, and monthly sales trends, helping users identify key business patterns and support data-driven decision-making.
 
 ## Dashboard Preview
-![Executive Retail Sales Dashboard](dashboard.png)
+![Executive Retail Sales Dashboard](Dashboard.png)
 
 ## Live Dashboard
 
