@@ -1,4 +1,4 @@
-# Executive Retail Sales Dashboard
+# 📈 Executive Retail Sales Dashboard
 
 ## Overview
 
